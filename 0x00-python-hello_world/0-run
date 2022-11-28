@@ -1,2 +1,2 @@
 #!/bin/bash
-PYFILE= first.py
+PYFILE python_script.py
