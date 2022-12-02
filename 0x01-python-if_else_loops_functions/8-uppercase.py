@@ -2,5 +2,5 @@
 
 def uppercase(str):
     uppercase = __import__('8-uppercase').uppercase
-    uppercase("best")
-    uppercase("Best School 98 Battery street")
+    uppercase("Holberton School")
+    uppercase("Holberon School, 98 Battery street")
