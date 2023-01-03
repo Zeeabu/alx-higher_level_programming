@@ -1,3 +1,3 @@
-thislist = ["Zainab", "Suleiman"]
-mylist = thislist.copy()
-print(mylist)
+#!/usr/bin/python3
+def copy_list(l):
+    return(l.copy())
